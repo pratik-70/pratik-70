@@ -1,10 +1,22 @@
 <div align="center">
 
-# Hi 👋 I'm Pratik Kumar
+<img src="./banner.png" width="100%" alt="banner"/>
 
-### 🚀 Backend Developer | DevOps Engineer | Cloud Enthusiast
+# 👋 Hi, I'm Pratik Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
+### Backend Developer • DevOps Engineer • Cloud Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+New+Technologies"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=pratik-70&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/pratik-70?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/pratik-70?style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -12,203 +24,187 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech CSE Student
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-💻 Passionate about Backend Development and DevOps
+```yaml
+Name: Pratik Kumar
 
-🌱 Currently learning
+Role: Backend Developer
 
-- Microservices
-- System Design
-- Spring Security
-- Kubernetes
+Learning:
+  - Microservices
+  - System Design
+  - Spring Security
+  - Kubernetes
 
-🚀 Interested in building scalable backend systems and cloud-native applications.
+Interests:
+  - Backend Engineering
+  - DevOps
+  - Cloud
+  - Automation
+
+Current Focus:
+  - Spring Boot
+  - Docker
+  - AWS
+  - Terraform
+```
+
+- 🔭 Working on **Finance Service**
+- 🌱 Learning **Microservices**
+- ☁ Exploring **AWS Cloud**
+- 🐳 Love Docker & Kubernetes
+- ⚡ Fun fact: I enjoy automating repetitive tasks.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
 
 ### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
 
-### DevOps & Cloud
+### DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,linux,git,github"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,linux,git,github"/>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven"/>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 🍽 FoodHub
-
-End-to-End DevOps Pipeline
-
-**Tech**
-
-- React
-- Node.js
-- PostgreSQL
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- AWS
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🍽 FoodHub | End-to-End DevOps Pipeline | React • Node • Docker • Kubernetes • Jenkins • AWS |
+| 💰 Finance Service | Spring Boot Backend | Spring Boot • PostgreSQL • JWT |
+| 🤖 AI Task Manager | Full Stack AI App | React • Node • MongoDB |
+| 📅 Event Reminder | Java Swing Project | Java • DSA |
 
 ---
 
-## 💰 Finance Service
+# 📊 GitHub Analytics
 
-Spring Boot backend project implementing
+<div align="center">
 
-- Payment APIs
-- Invoice Management
-- EMI Support
-- Notifications
-- PostgreSQL
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratik-70&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-70&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🤖 AI Task Manager
-
-Full Stack AI Task Manager
-
-- React
-- Node.js
-- MongoDB
-
----
-
-## 📅 Event Reminder System
-
-Java Swing + DSA
-
-- Scheduling
-- Notifications
-- Calendar
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratik-70&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-70&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pratik-70&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=pratik-70&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratik-70&theme=tokyonight&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-70&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🌟 Current Focus
+# 🏆 GitHub Trophies
 
-✅ Backend Development
+<div align="center">
 
-✅ Spring Boot
+<img src="https://github-profile-trophy.vercel.app/?username=pratik-70&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-✅ REST APIs
+</div>
 
-✅ Docker
+---
 
-✅ Kubernetes
+# 🏅 Certifications
 
-✅ Terraform
+✔ DevOps
 
-✅ AWS
+✔ Java Backend
 
-✅ CI/CD
+✔ AWS Fundamentals
+
+✔ Docker & Kubernetes
+
+✔ Terraform
+
+✔ Infosys Springboard
 
 ---
 
 # 📚 Currently Learning
 
-- Microservices
-- Redis
-- Kafka
-- Spring Security
-- Design Patterns
-- System Design
+```text
+██████████████████████░░░░░░░░  Spring Boot Advanced
+
+███████████████████░░░░░░░░░░░  Kubernetes
+
+██████████████████░░░░░░░░░░░░  Microservices
+
+████████████████░░░░░░░░░░░░░░  System Design
+
+███████████████░░░░░░░░░░░░░░░  Kafka
+```
 
 ---
 
-# 📫 Connect With Me
+# ⚡ Dev Quote
 
-<p>
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
-</p>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=pratik-70&color=blueviolet"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
