@@ -1,16 +1,31 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="banner"/>
+<img src="./banner.png" width="100%" alt="Banner"/>
 
 # 👋 Hi, I'm Pratik Kumar
 
-### Backend Developer • DevOps Engineer • Cloud Enthusiast
+### ☁️ DevOps & Cloud Engineer • ☕ Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;Backend+Developer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Spring+Boot+Developer;Building+Scalable+Cloud+Infrastructure;CI%2FCD+Automation"/>
+
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=pratik-70&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pratik-70&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/followers/pratik-70?style=for-the-badge"/>
 
@@ -22,88 +37,127 @@
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```yaml
 Name: Pratik Kumar
 
-Role: Backend Developer
+Role:
+  - DevOps Engineer
+  - Cloud Engineer
+  - Backend Developer
+
+Current Focus:
+  - AWS Cloud
+  - Kubernetes
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Backend APIs
 
 Learning:
   - Microservices
   - System Design
-  - Spring Security
-  - Kubernetes
+  - Platform Engineering
 
-Interests:
-  - Backend Engineering
-  - DevOps
-  - Cloud
-  - Automation
-
-Current Focus:
-  - Spring Boot
-  - Docker
-  - AWS
-  - Terraform
+Mission:
+  Design scalable cloud infrastructure,
+  automate deployments,
+  and build production-ready backend systems.
 ```
-
-- 🔭 Working on **Finance Service**
-- 🌱 Learning **Microservices**
-- ☁ Exploring **AWS Cloud**
-- 🐳 Love Docker & Kubernetes
-- ⚡ Fun fact: I enjoy automating repetitive tasks.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-### Languages
+### ☁ Cloud
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-### Backend
+### ⚙ DevOps
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,linux,git,github,prometheus,grafana"/>
 
-### Database
+### ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,express"/>
 
-### DevOps
+### 🗄 Database
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,linux,git,github"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 
-### Tools
+### 💻 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman"/>
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🍽 FoodHub | End-to-End DevOps Pipeline | React • Node • Docker • Kubernetes • Jenkins • AWS |
-| 💰 Finance Service | Spring Boot Backend | Spring Boot • PostgreSQL • JWT |
-| 🤖 AI Task Manager | Full Stack AI App | React • Node • MongoDB |
-| 📅 Event Reminder | Java Swing Project | Java • DSA |
+## 🍽 FoodHub - End-to-End DevOps Pipeline
+
+> Docker • Kubernetes • Jenkins • Terraform • AWS • React • Node.js
+
+✔ Automated CI/CD Pipeline
+
+✔ Infrastructure Provisioning
+
+✔ Kubernetes Deployment
+
+✔ Cloud Hosting
 
 ---
 
-# 📊 GitHub Analytics
+## 💰 Finance Service
+
+> Spring Boot • PostgreSQL • Docker
+
+✔ Payment APIs
+
+✔ Invoice Management
+
+✔ Authentication
+
+✔ Dockerized Deployment
+
+---
+
+## ☁ AWS Infrastructure
+
+Infrastructure provisioning using Terraform
+
+---
+
+## ☸ Kubernetes Cluster
+
+Production-ready deployments
+
+---
+
+## 🤖 AI Task Manager
+
+React + Node + MongoDB
+
+---
+
+## 📅 Event Reminder
+
+Java Swing + DSA
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratik-70&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pratik-70&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-70&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-70&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -119,7 +173,7 @@ Current Focus:
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -129,49 +183,50 @@ Current Focus:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratik-70&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratik-70&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
+# 📚 Current Learning Journey
+
+| Technology | Progress |
+|------------|----------|
+| AWS | ████████████████████ 90% |
+| Docker | ████████████████████ 95% |
+| Kubernetes | ██████████████████░ 85% |
+| Terraform | ██████████████████░ 85% |
+| Jenkins | ███████████████████ 90% |
+| Spring Boot | █████████████████░░ 80% |
+| Spring Security | ███████████████░░░ 75% |
+| Microservices | ███████████░░░░░░░ 60% |
+
+---
+
 # 🏅 Certifications
 
-✔ DevOps
+🏆 DevOps
 
-✔ Java Backend
+🏆 Java Backend
 
-✔ AWS Fundamentals
+🏆 Docker
 
-✔ Docker & Kubernetes
+🏆 Kubernetes
 
-✔ Terraform
+🏆 Terraform
 
-✔ Infosys Springboard
+🏆 AWS
 
----
-
-# 📚 Currently Learning
-
-```text
-██████████████████████░░░░░░░░  Spring Boot Advanced
-
-███████████████████░░░░░░░░░░░  Kubernetes
-
-██████████████████░░░░░░░░░░░░  Microservices
-
-████████████████░░░░░░░░░░░░░░  System Design
-
-███████████████░░░░░░░░░░░░░░░  Kafka
-```
+🏆 Infosys Springboard
 
 ---
 
-# ⚡ Dev Quote
+# ⚡ Random Dev Quote
 
 <div align="center">
 
@@ -181,20 +236,20 @@ Current Focus:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 </div>
@@ -203,8 +258,8 @@ Current Focus:
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
